@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/yamaerenay/100-images-of-top-50-car-brands
+https://www.kaggle.com/datasets/ashfaqsyed/cars-collection-dataset
